@@ -23,16 +23,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-  <br/>
-
-<a href="https://github.com/biels166">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biels166&theme=midnight-purple&show_icons=true" />
-</a>
-
-[![biels166](https://github-readme-stats.vercel.app/api/top-langs/?username=biels166&hide=html&layout=compact&theme=midnight-purple)](https://github.com/biels166)
-
-<br/>
-
 **Plataformas de Prototipagem**
 
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -48,6 +38,18 @@
   ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
   ![Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
   ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+**Status**
+<br/>
+
+<a href="https://github.com/biels166">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biels166&theme=midnight-purple&show_icons=true" />
+</a>
+
+[![biels166](https://github-readme-stats.vercel.app/api/top-langs/?username=biels166&hide=html&layout=compact&theme=midnight-purple)](https://github.com/biels166)
+
+<br/>
+
 
 <h3> :world_map: &nbsp;Onde me encontrar: </h3> 
 
