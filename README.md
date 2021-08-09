@@ -26,10 +26,10 @@
   <br/>
 
 <a href="https://github.com/biels166">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biels166&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biels166&theme=midnight-purple&show_icons=true" />
 </a>
 
-[![biels166](https://github-readme-stats.vercel.app/api/top-langs/?username=biels166&hide=html&layout=compact&theme=dracula)](https://github.com/biels166)
+[![biels166](https://github-readme-stats.vercel.app/api/top-langs/?username=biels166&hide=html&layout=compact&theme=midnight-purple)](https://github.com/biels166)
 
 <br/>
 
